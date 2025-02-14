@@ -19,6 +19,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+ROOT_URLCONF = 'tango_with_django_project.urls'
+
+
 
 # Application definition
 
